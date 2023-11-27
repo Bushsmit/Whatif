@@ -1,0 +1,4 @@
+--BROUGHT TO YOU BY ROBLOXSCRIPTS.NET!--
+
+getgenv().fluxus = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SKOIXLL/RIVERHUB-SKYHUB/main/WL.lua"))()
